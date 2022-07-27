@@ -45,7 +45,7 @@ This is a simple weather dashboard for travel lovers. You can check the weather 
 
 ## Website
 
-https://yurii92.github.io/weather-dashboard-by-yuri/<br/>
+https://falconview.github.io/Weather-Dashboard/<br/>
 ![alt text](./Assets/Images/screenshot_01_main.png)
 
 ## Contribution
