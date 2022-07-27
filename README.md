@@ -14,9 +14,9 @@ This is a simple weather dashboard for travel lovers. You can check the weather 
   ![alt text](./Assets/Images/screenshot_03_search-history-result.png)
 - For current weather conditions, the following items will be displayed:
 
-  1- City Name
-  2- Date
-  3- Icon representing Weather Condition
+  1. City Name
+  2. Date
+  3. Icon representing Weather Condition
   4. Temperature
   5. Wind Speed
   6. Humidity
