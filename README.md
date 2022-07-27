@@ -1,4 +1,4 @@
-# Weather Dashboard by Yuri
+# Weather Dashboard
 
 ## Purpose
 
