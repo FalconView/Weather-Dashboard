@@ -1,25 +1,25 @@
 :root {
   --primary: #ffffff;
-  --secondary: #33bbff;
-  --light-border: #626464;
+  --secondary: #57c7ff;
+  --light-border: #575757;
 }
 
 header {
   text-align: center;
   padding: 20px;
-  background-image: linear-gradient(0.25turn, #6db8ff, #00026e);
+  background-image: linear-gradient(0.25turn, #7dbefa, #010252);
   color: var(--primary);
 }
 
 main {
-  padding: 10px;
+  padding: 20px;
 }
 
 #city-search {
   padding: 5px 8px;
   width: 30vw;
   border: 1px solid var(--light-border);
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 button {
@@ -28,7 +28,7 @@ button {
   width: 30vw;
   background: var(--secondary);
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   color: var(--primary);
 }
 
